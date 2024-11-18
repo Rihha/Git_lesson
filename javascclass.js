@@ -1,0 +1,1 @@
+console.log("Rihanat is a fine girl.")
